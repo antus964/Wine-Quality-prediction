@@ -8,31 +8,50 @@ Features include fixed acidity, volatile acidity, citric acid, residual sugar, p
 The target variable is the wine quality score, rated between 0 to 10 based on sensory data.
 
 ## **🛠️ Tech Stack** ##
+
 Programming Language: Python 🐍
+
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+
 Machine Learning Models: Logistic Regression, Random Forest, Decision Tree, XGBoost
 
 ## **📊 Project Workflow** ##
+
 Data Preprocessing 🧹
+
 Handling missing values and outliers
+
 Feature scaling and encoding
 
 ## **Exploratory Data Analysis (EDA) 📊** ##
+
 Understanding feature correlations
+
 Visualizing distributions and trends
 
+
 ## **Model Training & Evaluation 🤖** ##
+
 Training multiple ML models
+
 Hyperparameter tuning for better accuracy
+
 Evaluating with metrics like accuracy, RMSE, and confusion matrix
 
+
 ## **Prediction & Insights 🔍** ##
+
 Predicting wine quality from new data
+
 Identifying key factors affecting wine quality
 
+
 ## **🚀 Future Enhancements** ##
+
 Deploying the model as a web app using Flask or Streamlit
+
 Using Deep Learning for advanced predictions
+
 Incorporating recommendation systems for wine pairing
 
 This project demonstrates data-driven decision-making in the food & beverage industry. 🍷✨
