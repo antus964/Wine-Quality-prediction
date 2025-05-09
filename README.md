@@ -9,7 +9,7 @@ The target variable is the wine quality score, rated between 0 to 10 based on se
 
 ## **🛠️ Tech Stack** ##
      
-Programming Language: Python 🐍   
+Programming Language: Python 🐍    
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 Machine Learning Models: Logistic Regression, Random Forest, Decision Tree, XGBoost
