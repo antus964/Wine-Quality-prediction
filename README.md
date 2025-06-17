@@ -4,7 +4,7 @@ Wine quality is influenced by various chemical properties such as acidity, sugar
       
 ## **📂 Dataset** ##        
 The dataset used in this project comes from the UCI Machine Learning Repository and contains physicochemical attribut es of red and white wines.  
-Features include fixed acidity, volatile acidity, citric acid, residual sugar, pH, alcohol content, etc. 
+Features include fixed acidity, volatile acidity, citric acid, residual sugar, pH, alcohol content, etc.  
 The target variable is the wine quality score, rated between 0 to 10 based on sensory data 
     
 ## **🛠️ Tech Stack** ##     
