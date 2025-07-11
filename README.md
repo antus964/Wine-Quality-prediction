@@ -1,4 +1,4 @@
- # **📌 Project Overview** # 
+  # **📌 Project Overview** # 
 
 Wine quality is influenced by various chemical properties such as acidity, sugar content, and pH levels. This project aims to build a machine learning model to predict the quality of wine based on these features. By leveraging data science techniques, we can analyze patterns and classify wines into different quality levels 
        
@@ -8,7 +8,7 @@ Features include fixed acidity, volatile acidity, citric acid, residual sugar, p
 The target variable is the wine quality score, rated between 0 to 10 based on sensory data  
        
 ## **🛠️ Tech Stack** ##        
-        
+         
 Programming Language: Python 🐍    
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
