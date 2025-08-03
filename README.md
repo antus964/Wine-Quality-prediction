@@ -1,7 +1,7 @@
   # **📌 Project Overview** # 
 
 Wine quality is influenced by various chemical properties such as acidity, sugar content, and pH levels. This project aims to build a machine learning model to predict the quality of wine based on these features. By leveraging data science techniques, we can analyze patterns and classify wines into different quality levels 
-       
+        
 ## **📂 Dataset** ##        
 The dataset used in this project comes from the UCI Machine Learning Repository and contains physicochemical attribut es of red and white wines.  
 Features include fixed acidity, volatile acidity, citric acid, residual sugar, pH, alcohol content, etc.  
