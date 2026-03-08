@@ -8,7 +8,7 @@ Features include fixed acidity, volatile acidity, citric acid, residual sugar, p
 The target variable is the wine quality score, rated between 0 to 10 based on sensory data  
              
 ## **🛠️ Tech Stack** ##                   
-                 
+                  
 Programming Language: Python 🐍    
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn 
 
